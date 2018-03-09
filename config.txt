@@ -1,3 +1,0 @@
-[user]
-	email = raul.tolp@gmail.com
-	name = raultolp
